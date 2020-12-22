@@ -1,0 +1,28 @@
+#root {
+	height:100%
+}
+
+.border-radius {
+	border-radius: 10px;
+}
+
+.drag-drop-area{
+	background-color: #F1F3F6;
+	transition-delay:0.15s;
+}
+
+.drag-drop-area:hover {
+	background-color: #335577;
+	transition-delay:0.15s;
+}
+
+.task-card {
+	margin: "5px";
+	z-index: 1000;
+}
+
+.task-card:hover {
+	background-color: #DaDaDa;
+	transition-delay:0.13s;
+}
+
